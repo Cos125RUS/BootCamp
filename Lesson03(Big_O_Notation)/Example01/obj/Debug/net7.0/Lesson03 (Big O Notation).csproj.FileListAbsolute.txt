@@ -1,0 +1,15 @@
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\bin\Debug\net7.0\Lesson03 (Big O Notation).exe
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\bin\Debug\net7.0\Lesson03 (Big O Notation).deps.json
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\bin\Debug\net7.0\Lesson03 (Big O Notation).runtimeconfig.json
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\bin\Debug\net7.0\Lesson03 (Big O Notation).dll
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\bin\Debug\net7.0\Lesson03 (Big O Notation).pdb
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).csproj.AssemblyReference.cache
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).AssemblyInfoInputs.cache
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).AssemblyInfo.cs
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).csproj.CoreCompileInputs.cache
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).dll
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\refint\Lesson03 (Big O Notation).dll
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).pdb
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\Lesson03 (Big O Notation).genruntimeconfig.cache
+C:\repo\C#\BootCamp\Lesson03 (Big O Notation)\obj\Debug\net7.0\ref\Lesson03 (Big O Notation).dll
